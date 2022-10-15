@@ -9,7 +9,6 @@ I felt like I had a lot of variables defined; and I'm sure that I could have don
 
 **PyPoll**
 This activity had you look at vote countint for a town. And yuou had to detemine the nubmer of votes per candidate and the winner.
-
 My biggest challenge on this one was to get the layout spacing correctly. Learning the \n to break apart to each own line.
 
 
